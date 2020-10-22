@@ -1,0 +1,745 @@
+ID,Athlete_ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
+57946,29655,Ralph Douglas Doubell,M,23,180,65,Australia,AUS,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"Gold"
+46885,24160,Alfredo Ernesto Cubas Borges,M,22,165,57,El Salvador,ESA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+46959,24194,Guillermo Cuello,M,27,193,83,Argentina,ARG,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+208014,104412,Thomas Saisi,M,23,173,68,Kenya,KEN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+249227,124775,Gilbert Van Manshoven,M,22,180,70,Belgium,BEL,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+132707,66791,Gerd Larsen,M,26,189,75,Denmark,DEN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+141216,70866,Jos Gerardo L'Oficial Olivero,M,20,180,77,Dominican Republic,DOM,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+168911,84895,Papa M'Baye N'Diaye,M,30,182,67,Senegal,SEN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+18206,9658,Charles Wade Bell,M,23,180,70,United States,USA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+167334,84062,Jun Nagai,M,24,171,59,Japan,JPN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+167102,83951,Neville F. Myton,M,22,180,69,Jamaica,JAM,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+52782,27098,Giovanni Gianni' Del Buono',M,25,178,65,Italy,ITA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+6069,3415,John A. Ametepey,M,29,185,73,Ghana,GHA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+76340,38737,Sven Anders Grderud,M,22,186,70,Sweden,SWE,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+129695,65293,Ronald Craig Ron' Kutschinski',M,21,183,66,United States,USA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+73437,37323,Dieter Fromm,M,20,178,65,East Germany,GDR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+234487,117589,Henryk Jan Szordykowski,M,24,180,67,Poland,POL,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+59468,30461,Jean-Pierre Dufresne,M,23,177,66,France,FRA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+73088,37153,"Xaver Frick, Jr.",M,22,176,64,Liechtenstein,LIE,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+215372,108129,Mamo Sebsibe,M,24,172,62,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+219269,110155,Gilles Sibon,M,23,176,62,France,FRA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+9961,5446,Yevhen Oleksandrovych Arzhanov,M,20,179,68,Soviet Union,URS,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+60615,31040,Byron Alphonso Dyce,M,20,178,67,Jamaica,JAM,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+66764,34151,Thomas Francis Tom' Farrell',M,24,172,64,United States,USA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"Bronze"
+220068,110551,Roberto Silva Martnez,M,21,168,60,Mexico,MEX,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+156792,78753,Francisco Mauricio Menocal,M,22,175,70,Nicaragua,NCA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+12430,6754,Carlos Bez Guzman,M,20,170,57,Puerto Rico,PUR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+189788,95324,Jozef Plach,M,19,182,73,Czechoslovakia,TCH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+111320,56320,Tom Jungwirth,M,25,187,71,Czechoslovakia,TCH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+101328,51237,Angelo Koko Nimir Hussein,M,NA,172,64,Sudan,SUD,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+179309,90101,Robert Ouko,M,19,173,68,Kenya,KEN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+196392,98597,Ramasamy Subramaniam,M,28,183,65,Malaysia,MAS,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+115772,58653,Franz-Josef Kemper,M,23,180,61,West Germany,FRG,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+185120,93050,Jacques Pennewaert,M,28,184,76,Belgium,BEL,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+36168,18588,Noel J. Carroll,M,26,188,79,Ireland,IRL,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+46365,23920,David Dave' Cropper',M,22,185,73,Great Britain,GBR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+37311,19180,Benedict Hutchinson Ben' Cayenne',M,24,180,72,Trinidad and Tobago,TTO,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+104016,52631,Ahmed Issa,M,25,174,60,Chad,CHA,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+36269,18633,Christopher Sydney Chris' Carter',M,25,185,81,Great Britain,GBR,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+119732,60620,Wilson Arap Chuma Kiprugut,M,NA,178,71,Kenya,KEN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"Silver"
+87856,44543,Matias Habtemichael,M,17,185,65,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+98349,49776,Rbert Honti,M,25,181,67,Hungary,HUN,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+1521,841,Walter Adams,M,23,172,67,West Germany,FRG,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,"NA"
+34336,17694,Colin William Ashburner Campbell,M,26,185,76,Great Britain,GBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+219330,110178,Muhammad Siddique,M,23,NA,NA,Pakistan,PAK,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+158462,79542,Herman Mignon,M,21,180,69,Belgium,BEL,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+165650,83198,Benson Mulomba,M,22,177,54,Zambia,ZAM,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+60617,31040,Byron Alphonso Dyce,M,24,178,67,Jamaica,JAM,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+189789,95324,Jozef Plach,M,23,182,73,Czechoslovakia,TCH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+157950,79289,Josip Joe' Meimurec',M,27,176,69,Yugoslavia,YUG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+221191,111149,Sri Ram Singh Shekhawat,M,22,178,63,India,IND,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+156794,78753,Francisco Mauricio Menocal,M,26,175,70,Nicaragua,NCA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+188570,94721,Fritz Pierre,M,23,182,67,Haiti,HAI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+36266,18631,Andrew William Andy' Carter',M,23,183,69,Great Britain,GBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+213167,107038,Josef Schmid,M,19,180,70,West Germany,FRG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+166306,83520,Francis Frank' Murphy',M,25,183,70,Ireland,IRL,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+197286,99046,douard Rasoanaivo,M,25,176,62,Madagascar,MAD,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+198291,99569,Shibrou Regassa,M,28,175,57,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+179310,90101,Robert Ouko,M,23,173,68,Kenya,KEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+172444,86638,Harry Nkopeka,M,23,178,66,Malawi,MAW,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+210164,105513,Alain Sans,M,27,178,70,France,FRA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+48604,25046,Carlos Angel Dalurzo,M,19,179,70,Argentina,ARG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+209590,105244,Roqui Sanchez,M,19,173,66,France,FRA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+24590,12882,Michael Kipsubut Mike' Boit',M,23,180,68,Kenya,KEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"Bronze"
+270534,135305,Andrs Zsinka,M,24,174,67,Hungary,HUN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+208015,104412,Thomas Saisi,M,27,173,68,Kenya,KEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+204087,102460,Graeme Lindsay Rootham,M,24,177,73,Australia,AUS,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+45878,23677,James Jimmy' Crampton',M,23,170,51,Myanmar,MYA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+46366,23920,David Dave' Cropper',M,26,185,73,Great Britain,GBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+104365,52808,Ivan Ivanov,M,24,177,64,Soviet Union,URS,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+78850,40025,Gheorghe Ghipu,M,17,183,63,Romania,ROU,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+99493,50357,Thomas O'Brien Howe,M,27,183,77,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+4750,2712,Mohamed Sid Ali Djouadi,M,20,NA,NA,Algeria,ALG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+244864,122605,Mehmet Tmkan,M,28,178,70,Turkey,TUR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+81772,41515,Francis Gonzalez,M,20,170,60,France,FRA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+129231,65057,Andrzej Kupczyk,M,23,177,64,Poland,POL,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+101330,51237,Angelo Koko Nimir Hussein,M,NA,172,64,Sudan,SUD,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+1522,841,Walter Adams,M,27,172,67,West Germany,FRG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+254025,127197,Yevhen Volkov,M,24,172,68,Soviet Union,URS,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+142267,71369,Hctor Lpez,M,19,182,74,Venezuela,VEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+86036,43629,Mansour Guettaya Gotti,M,22,178,68,Tunisia,TUN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+87561,44390,Rolf Gysin,M,20,180,62,Switzerland,SUI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+94393,47769,Sjef Hensgens,M,24,179,67,Netherlands,NED,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+89603,45413,Kassem Hamz,M,22,166,62,Lebanon,LIB,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+115773,58653,Franz-Josef Kemper,M,26,180,61,West Germany,FRG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+262274,131230,Richard Charles Rick' Wohlhuter',M,23,175,60,United States,USA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+112978,57238,Roger Messau Kangni,M,NA,175,70,Togo,TOG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+263073,131638,David James Dave' Wottle',M,22,183,66,United States,USA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"Gold"
+9950,5439,Donaldo Arza,M,26,180,69,Panama,PAN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+11682,6373,Mohamed Azzedine Azzouzi,M,24,181,65,Algeria,ALG,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+63885,32739,Mohammad Reza Entezari,M,26,178,73,Iran,IRI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+148180,74355,Alphonse Mandonda,M,21,183,73,Congo (Brazzaville),CGO,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+68102,34787,Antonio Fernndez Ortz,M,24,173,66,Spain,ESP,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+9962,5446,Yevhen Oleksandrovych Arzhanov,M,24,179,68,Soviet Union,URS,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"Silver"
+807,461,Mohamed Aboker,M,26,175,61,Somalia,SOM,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+229358,115159,Lennox Stewart,M,22,175,66,Trinidad and Tobago,TTO,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+765,438,Jaiye Abidoye,M,30,NA,NA,Nigeria,NGR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+147947,74245,Fernando Eugnio Pacheco Mamede,M,19,174,58,Portugal,POR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+233517,117117,Kenneth Lloyd Ken' Swenson',M,24,177,66,United States,USA,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+234800,117746,Mulugetta Tadesse,M,26,176,64,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+7211,4032,Daniel Andrade,M,22,173,60,Senegal,SEN,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+73439,37323,Dieter Fromm,M,24,178,65,East Germany,GDR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+239854,120194,orsteinn orsteinsson,M,25,NA,NA,Iceland,ISL,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+77281,39212,Manuel Carlos Gayoso Daz,M,28,175,67,Spain,ESP,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,"NA"
+99358,50294,Evert Hoving,M,23,187,70,Netherlands,NED,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+42620,21987,Francis James Frank' Clement',M,24,180,66,Great Britain,GBR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+110669,55972,Wilnor Joseph,M,33,173,62,Haiti,HAI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+179487,90192,Stephen Michael John Steve' Ovett',M,20,183,70,Great Britain,GBR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+111017,56170,Alberto Juantorena Danger,M,25,190,84,Cuba,CUB,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"Gold"
+187983,94439,Marcel Philippe,M,24,178,68,France,FRA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+91673,46455,Gnther Hasler,M,25,180,70,Liechtenstein,LIE,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+178355,89656,Niall O'Shaughnessy,M,20,169,59,Ireland,IRL,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+178234,89588,Jorge L. Ortz,M,21,175,66,Puerto Rico,PUR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+42115,21720,Leandro Flix Civil Jarvis,M,28,173,60,Cuba,CUB,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+87562,44390,Rolf Gysin,M,24,180,62,Switzerland,SUI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+84756,43014,Carlo Grippo,M,21,180,65,Italy,ITA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+170333,85586,Seymour Newman,M,23,188,73,Jamaica,JAM,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+83966,42671,Orlando Greene,M,23,171,63,Barbados,BAR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+81344,41291,Erasmo Gmez,M,25,168,65,Nicaragua,NCA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+78529,39855,Marian Gsicki,M,23,178,71,Poland,POL,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+147950,74245,Fernando Eugnio Pacheco Mamede,M,23,174,58,Portugal,POR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+148932,74705,Jos Marajo,M,21,177,62,France,FRA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+155519,78072,Luis Medina Montoya,M,24,176,63,Cuba,CUB,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+63903,32746,Mark Bruce Enyeart,M,22,183,70,United States,USA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+3654,2094,Attiya Shumrani Al-Qahtani,M,23,174,69,Saudi Arabia,KSA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+263506,131857,Wilhelm Willi' Wlbeck',M,21,186,69,West Germany,FRG,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+262275,131230,Richard Charles Rick' Wohlhuter',M,27,175,60,United States,USA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"Bronze"
+259200,129761,Thomas Wessinghage,M,24,181,68,West Germany,FRG,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+201982,101444,"James Junior Robinson, Jr.",M,21,180,67,United States,USA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+258696,129521,Paul-Heinz Wellmann,M,24,182,70,West Germany,FRG,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+209591,105244,Roqui Sanchez,M,23,173,66,France,FRA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+255878,128112,John George Walker,M,24,183,74,New Zealand,NZL,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+211561,106237,Milovan Savi,M,23,192,72,Yugoslavia,YUG,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+189790,95324,Jozef Plach,M,27,182,73,Czechoslovakia,TCH,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+248162,124241,Ivo Van Damme,M,22,191,76,Belgium,BEL,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"Silver"
+244779,122551,Horace Clyde Tuitt,M,22,185,68,Trinidad and Tobago,TTO,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+13483,7313,Andrs Ballb Garca,M,23,181,65,Spain,ESP,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+221192,111149,Sri Ram Singh Shekhawat,M,26,178,63,India,IND,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+8031,4443,Viktor Fyodorovich Anokhin,M,25,188,81,Soviet Union,URS,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+233112,116931,Per ke Bertil Svenson,M,23,185,73,Sweden,SWE,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+232573,116658,Luciano Suanj,M,27,185,73,Yugoslavia,YUG,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+224806,112926,Juan Francisco Solis Manrques,M,18,175,56,Dominican Republic,DOM,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+26681,13888,Roy Bottse,M,25,190,74,Suriname,SUR,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+191240,96040,Vladimir Ivanovich Ponomaryov,M,23,188,72,Soviet Union,URS,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+268493,134317,Jnos Zemen,M,25,173,65,Hungary,HUN,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+266345,133246,Muhammad Younis,M,27,175,70,Pakistan,PAK,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,"NA"
+86290,43736,Agberto Joo Conceio Guimares,M,22,175,57,Brazil,BRA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+257198,128790,David Marlais Jenner Dave' Warren',M,24,185,73,Great Britain,GBR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+120008,60756,Nikolay Ivanovich Kirov,M,22,176,63,Soviet Union,URS,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"Bronze"
+147149,73855,Mohamed Makhlouf,M,22,NA,NA,Syria,SYR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+211562,106237,Milovan Savi,M,27,192,72,Yugoslavia,YUG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+10395,5693,Adam Assimi,M,NA,NA,NA,Benin,BEN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+242794,121595,Colomn Trabado Prez,M,22,182,71,Spain,ESP,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+221193,111149,Sri Ram Singh Shekhawat,M,30,178,63,India,IND,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+166517,83642,Archfell Musango,M,21,176,69,Zambia,ZAM,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+56311,28845,Jn Diriksson,M,25,194,79,Iceland,ISL,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+159006,79815,Roger Milhau,M,25,175,69,France,FRA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+21101,11142,Olaf Beyer,M,22,186,69,East Germany,GDR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+17858,9489,Nigusse Bekele,M,20,185,55,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+164991,82858,Langa Mudongo,M,25,180,66,Botswana,BOT,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+255385,127858,Detlef Wagenknecht,M,21,193,74,East Germany,GDR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+84757,43014,Carlo Grippo,M,25,180,65,Italy,ITA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+28172,14606,George Branche,M,27,175,63,Sierra Leone,SLE,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+123042,62187,Binko Ganev Kolev,M,21,178,63,Bulgaria,BUL,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+180132,90522,Antonio Pez Montero,M,23,182,74,Spain,ESP,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+143858,72211,Musa Luliga,M,25,182,66,Tanzania,TAN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+62617,32078,Mohamed Salem El-Margini,M,NA,168,63,Libya,LBA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+115863,58685,Sahr Kendor,M,17,172,52,Sierra Leone,SLE,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+34125,17579,Sekou Camara,M,NA,175,67,Guinea,GUI,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+148933,74705,Jos Marajo,M,25,177,62,France,FRA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+188157,94520,Vongdeuane Phongsavanh,M,23,167,60,Laos,LAO,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+263606,131904,William Wuycke,M,22,173,63,Venezuela,VEN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+2631,1476,Mehdi Aidet,M,26,172,65,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+43060,22207,Sebastian Newbold Seb' Coe',M,23,175,54,Great Britain,GBR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"Silver"
+199292,100089,Anatoliy Volodymyrovych Reshetniak,M,25,187,75,Soviet Union,URS,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+96573,48896,Kenneth Hlasa,M,25,170,67,Lesotho,LES,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+179489,90192,Stephen Michael John Steve' Ovett',M,24,183,70,Great Britain,GBR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"Gold"
+101301,51219,Khaled Hussain Mahmoud,M,21,160,50,Kuwait,KUW,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+151830,76197,James Jimmy' Massallay',M,27,175,60,Sierra Leone,SLE,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+90850,46030,Derradji Harek,M,20,175,63,Algeria,ALG,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+182533,91741,Andrs Parczai,M,24,176,72,Hungary,HUN,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+32794,16852,Andreas Busse,M,21,185,68,East Germany,GDR,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+89346,45290,Owen Hamilton,M,21,178,64,Jamaica,JAM,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+60039,30742,Philippe Dupont,M,22,180,64,France,FRA,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+21130,11154,Atre Bezabeh,M,26,185,64,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+268589,134372,Abebe Zerihun,M,25,167,52,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+196234,98517,Tisbite Rakotoarisoa,M,28,166,56,Madagascar,MAD,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,"NA"
+98386,49795,Simon Edward Charles Hoogewerf,M,21,175,66,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+142162,71319,Alberto Lpez Davila,M,21,175,68,Guatemala,GUA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+242796,121595,Colomn Trabado Prez,M,26,182,71,Spain,ESP,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+240550,120545,Andr Titos,M,26,190,75,Mozambique,MOZ,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+75615,38387,Isaac Ganunga,M,24,180,70,Malawi,MAW,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+69107,35235,Francisco Figueredo,M,23,172,62,Paraguay,PAR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+68354,34908,Hans-Peter Ferner,M,28,176,72,West Germany,FRG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+1278,717,Leopoldo Acosta,M,22,185,61,Ecuador,ECU,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+3371,1898,Mouteb Al-Faouri,M,24,178,70,Jordan,JOR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+1658,922,Jama Mohamed Aden,M,21,180,68,Somalia,SOM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+110051,55641,Dale Anthony Jones,M,20,187,67,Antigua and Barbuda,ANT,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+110077,55653,Earl M. Jones,M,20,180,73,United States,USA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"Bronze"
+110284,55777,Tapfumaneyi Jonga,M,24,163,55,Zimbabwe,ZIM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+263607,131904,William Wuycke,M,26,173,63,Venezuela,VEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+91052,46136,Axel Andreas Michael Harries,M,19,192,80,West Germany,FRG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+89856,45533,Mark Ian Handelsman,M,23,183,70,Israel,ISR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+89347,45290,Owen Hamilton,M,25,178,64,Jamaica,JAM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+116740,59068,Omer Khalifa,M,27,174,64,Sudan,SUD,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+118125,59766,Kim Bok-Joo,M,23,175,64,South Korea,KOR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+5816,3274,Wilson William' Amakye',M,25,178,61,Ghana,GHA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+3388,1912,Abdul Raab Al-Ghadi,M,21,170,65,North Yemen,YAR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+86804,44029,Jodha Gurung,M,30,165,56,Nepal,NEP,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+122422,61874,Edwin Koech,M,23,174,64,Kenya,KEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+86292,43736,Agberto Joo Conceio Guimares,M,26,175,57,Brazil,BRA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+123436,62378,William Billy' Konchellah',M,22,188,74,Kenya,KEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+3756,2159,Barakat Salim Al-Sharji,M,16,178,60,Oman,OMA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+83671,42533,John Lee Johnny' Gray,M,24,191,75,United States,USA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+130940,65912,Faouzi Lahbi,M,24,176,60,Morocco,MAR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+81714,41487,Benjamn Gonzlez Gmez,M,26,177,67,Spain,ESP,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+5384,3051,Mohamed Alouini,M,26,183,70,Tunisia,TUN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+21743,11487,Abdi Bile Abdi,M,19,185,75,Somalia,SOM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+16062,8647,Batulamai Rajakumar,M,19,170,59,Malaysia,MAS,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+161660,81159,Manlio Molinari,M,19,184,72,San Marino,SMR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+161887,81274,Jeremy Jerry' Molyneaux',M,26,181,65,British Virgin Islands,IVB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+164637,82681,Sotirios Moutsanas,M,26,178,56,Greece,GRE,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+212017,106440,Patrick Gerard Pat' Scammell',M,23,189,67,Australia,AUS,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+56375,28885,Vusie Thomas Dlamini,M,26,NA,NA,Swaziland,SWZ,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+17935,9528,Ahmed Bel Kessam,M,22,175,72,Algeria,ALG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+211798,106345,Samuel Sawny,M,NA,NA,NA,Grenada,GRN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+50089,25779,Moussa Daweye,M,26,170,64,Niger,NIG,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+168978,84935,Juma Ndiwa,M,23,186,70,Kenya,KEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+170657,85774,Babacar Niang,M,25,178,63,Senegal,SEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+46587,24043,Joaquim Carvalho Cruz,M,21,187,74,Brazil,BRA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"Gold"
+46537,24012,Siegfried Cruden,M,24,168,64,Suriname,SUR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+166520,83642,Archfell Musango,M,25,176,69,Zambia,ZAM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+207329,104036,Donato Sabia,M,20,178,65,Italy,ITA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+205687,103250,Jean-Marie Vianney Rudasingwa,M,23,175,68,Rwanda,RWA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+43062,22207,Sebastian Newbold Seb' Coe',M,27,175,54,Great Britain,GBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"Silver"
+176498,88747,Charles Charlie' Oliver',M,29,185,65,Solomon Islands,SOL,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+26141,13634,Charles Borromeo,M,25,174,59,India,IND,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+201657,101282,Bruce Roberts,M,26,190,70,Canada,CAN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+178370,89667,Marcus Christopher O'Sullivan,M,22,175,60,Ireland,IRL,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+201475,101192,Syed Meshaq Rizvi,M,22,175,65,Pakistan,PAK,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+196692,98749,Joseph Joe' Ramotshabi',M,22,180,70,Botswana,BOT,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+37504,19276,Peter Ceesay,M,25,183,71,Gambia,GAM,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+179491,90192,Stephen Michael John Steve' Ovett',M,28,183,70,Great Britain,GBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+184058,92508,Peter John Pearless,M,27,188,73,New Zealand,NZL,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+152168,76382,Riccardo Giorgio Materazzi,M,21,176,63,Italy,ITA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+153523,77053,Marco Mayr,M,24,178,59,Switzerland,SUI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+11615,6328,Ibrahim Aziz,M,NA,178,68,United Arab Emirates,UAE,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+64855,33181,Bartolom Esono Asumu,M,21,175,68,Equatorial Guinea,GEQ,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+63115,32352,Peter Elliott,M,21,181,67,Great Britain,GBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+14426,7771,Jos Luz Zequinha Barbosa,M,23,184,68,Brazil,BRA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+157978,79307,Ousman Miangoto,M,29,175,70,Chad,CHA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+150323,75413,John Henry Marshall,M,20,191,75,United States,USA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+14886,8034,Oslen McGregor Barr,M,23,165,67,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+66282,33911,Moussa Fall,M,20,178,67,Senegal,SEN,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+60040,30742,Philippe Dupont,M,26,180,64,France,FRA,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+221479,111311,Philip Sinon,M,20,178,62,Seychelles,SEY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,"NA"
+201476,101192,Syed Meshaq Rizvi,M,26,175,65,Pakistan,PAK,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+130942,65912,Faouzi Lahbi,M,28,176,60,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+173731,87275,Joo Baptista N'Tyamba,M,20,178,60,Angola,ANG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+175916,88429,Ibrahim Okash Omar,M,23,180,65,Somalia,SOM,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+153037,76803,Ado Maude,M,21,NA,NA,Nigeria,NGR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+147233,73897,Kazanga Saigon Makok,M,21,163,62,Congo (Kinshasa),COD,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+446,248,Rda Abdenouz,M,19,170,63,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+236473,118568,William Taramai,M,27,180,75,Cook Islands,COK,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+98387,49795,Simon Edward Charles Hoogewerf,M,25,175,66,Canada,CAN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+110054,55641,Dale Anthony Jones,M,24,187,67,Antigua and Barbuda,ANT,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+191639,96212,Slobodan Popovi,M,25,179,63,Yugoslavia,YUG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+266613,133370,Yu Tae-Gyeong,M,27,184,74,South Korea,KOR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+226902,114022,Pablo Squella Serrano,M,25,178,64,Chile,CHI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+178613,89770,Paul Osland,M,24,188,63,Canada,CAN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+265649,132918,Yussuf Moli Yesky,M,23,175,60,Chad,CHA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+178812,89875,Ryszard Ostrowski,M,27,176,62,Poland,POL,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+231744,116253,Ari Michael Suhonen,M,22,185,68,Finland,FIN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+266380,133266,Mohamed Ismail Youssef,M,21,175,75,Qatar,QAT,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+219696,110363,John Siguria,M,23,165,64,Papua New Guinea,PNG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+159529,80061,Mohamed Hossain Milzer,M,21,174,65,Bangladesh,BAN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+249001,124656,Robin Arthur Anthony van Helden,M,23,180,73,Netherlands,NED,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+161661,81159,Manlio Molinari,M,24,184,72,San Marino,SMR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+252149,126275,Tonino Viali,M,28,179,70,Italy,ITA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+139328,69975,Lin Kuang-Liang,M,19,175,65,Chinese Taipei,TPE,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+245463,122915,Nimley Twegbe,M,25,170,59,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+164934,82831,Lui Muavesi,M,22,185,75,Fiji,FIJ,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+140091,70338,Eversley Augustus Linley,M,18,NA,NA,Saint Vincent and the Grenadines,VIN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+211816,106353,David Peter Sawyerr,M,27,170,NA,Sierra Leone,SLE,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+226897,114019,Spyros Spyrou,M,30,181,67,Cyprus,CYP,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+172387,86609,Momodou Bello N'Jie,M,18,176,70,Gambia,GAM,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+219947,110490,lvaro Manuel Santos Rosa Silva,M,23,177,58,Portugal,POR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+168946,84914,Eulucane Ndagijimana,M,27,172,68,Rwanda,RWA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+168979,84935,Juma Ndiwa,M,27,186,70,Kenya,KEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+119725,60617,Nixon Kiprotich,M,25,185,68,Kenya,KEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+207331,104036,Donato Sabia,M,25,178,65,Italy,ITA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+170659,85774,Babacar Niang,M,30,178,63,Senegal,SEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+242797,121595,Colomn Trabado Prez,M,30,182,71,Spain,ESP,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+257572,128982,Michael Mike' Watson',M,30,176,63,Bermuda,BER,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+156513,78616,Porfirio Mndez Acosta,M,22,184,78,Paraguay,PAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+154701,77665,Thomas Tom' McKean',M,24,183,71,Great Britain,GBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+45858,23668,Stephen Steve' Cram',M,27,186,69,Great Britain,GBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+86294,43736,Agberto Joo Conceio Guimares,M,31,175,57,Brazil,BRA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+83672,42533,John Lee Johnny' Gray,M,28,191,75,United States,USA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+83592,42482,Vladimir Vladimirovich Graudyn,M,24,182,70,Soviet Union,URS,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+83132,42230,Josep Graells Esquius,M,24,170,62,Andorra,AND,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+76686,38932,Kebapetse Bobby' Gaseitsiwe',M,21,178,66,Botswana,BOT,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+66284,33911,Moussa Fall,M,25,178,67,Senegal,SEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+65472,33510,David Mark Everett,M,20,183,70,United States,USA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+64168,32862,Paul Ereng,M,21,188,69,Kenya,KEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"Gold"
+63116,32352,Peter Elliott,M,25,181,67,Great Britain,GBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+60720,31097,Kenneth Dzekedzeke,M,19,185,76,Malawi,MAW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+59030,30218,Duan Xiuquan,M,21,171,55,China,CHN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+58867,30128,Robertus Johannes Rob' Druppers',M,26,186,70,Netherlands,NED,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+51974,26712,Toms de Teresa Colina,M,20,183,73,Spain,ESP,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+46589,24043,Joaquim Carvalho Cruz,M,25,187,74,Brazil,BRA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"Silver"
+98112,49660,Melford Homela,M,18,167,55,Zimbabwe,ZIM,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+28473,14767,Peter Braun,M,26,183,64,West Germany,FRG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+27653,14350,Cheikh Tidiane Ameth Boye,M,27,178,69,Senegal,SEN,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+17936,9528,Ahmed Bel Kessam,M,26,175,72,Algeria,ALG,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+15708,8463,Tracy A. Baskin,M,22,190,77,United States,USA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+14888,8034,Oslen McGregor Barr,M,27,165,67,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+14428,7771,Jos Luz Zequinha Barbosa,M,27,184,68,Brazil,BRA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+10230,5592,Tommy Asinga,M,19,184,74,Suriname,SUR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+8477,4667,Sad Aouita,M,28,175,58,Morocco,MAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"Bronze"
+3656,2095,Haji Bakr Al-Qahtani,M,23,173,63,Saudi Arabia,KSA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+3254,1827,Mansour Ayoub Al-Baloushi,M,20,175,65,Oman,OMA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+986,555,Antnio da Cunha Meneses Martins Abrantes,M,20,176,68,Portugal,POR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+538,307,Fahmi Ahmed Abdul Wahab Al-Tahri,M,23,NA,NA,North Yemen,YAR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+242,117,Maher Abbas,M,22,178,78,Lebanon,LIB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+94919,48054,Mauricio Hernndez Snchez,M,26,175,61,Mexico,MEX,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,"NA"
+57990,29675,Atle Thorold Lancelot Douglas,M,24,192,79,Norway,NOR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+191641,96212,Slobodan Popovi,M,29,179,63,Individual Olympic Athletes,IOA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+31005,15964,Emiliano Buale,M,22,NA,NA,Equatorial Guinea,GEQ,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+188466,94670,Piotr Piekarski,M,28,180,71,Poland,POL,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+180453,90696,John Maurice Palacio,M,25,180,67,Belize,BIZ,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+178488,89720,Kennedy Kwame Osei,M,25,178,68,Ghana,GHA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+44850,23119,Frdric Cornette,M,25,176,69,France,FRA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+173732,87275,Joo Baptista N'Tyamba,M,24,178,60,Angola,ANG,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+170661,85774,Babacar Niang,M,33,178,63,Senegal,SEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+51975,26712,Toms de Teresa Colina,M,23,183,73,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+56372,28883,Sipho Dlamini,M,19,180,65,Swaziland,SWZ,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+166032,83380,Francis Fanello Munthali,M,19,170,58,Malawi,MAW,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+201436,101181,Hussain Riyaz,M,17,157,50,Maldives,MDV,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+161229,80892,Anwar Omar Mohamed Ali,M,15,184,55,Yemen,YEM,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+154702,77665,Thomas Tom' McKean',M,28,183,71,Great Britain,GBR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+64170,32862,Paul Ereng,M,24,188,69,Kenya,KEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+65473,33510,David Mark Everett,M,23,183,70,United States,USA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+92884,47062,Desmond Hector,M,23,170,70,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+69596,35471,Baptiste Firiam,M,21,173,60,Vanuatu,VAN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+147072,73809,Anatoly Vasilyevich Makarevich,M,22,185,71,Unified Team,EUN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+146704,73634,Zacharia Maidjida,M,23,NA,NA,Central African Republic,CAF,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+140092,70338,Eversley Augustus Linley,M,22,NA,NA,Saint Vincent and the Grenadines,VIN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+81900,41580,Luis Javier Gonzlez Fanegas,M,23,181,63,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+135165,68012,Lee Jin-Il,M,19,183,68,South Korea,KOR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+110056,55641,Dale Anthony Jones,M,28,187,67,Antigua and Barbuda,ANT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+237932,119306,Clive Terrelonge,M,23,189,72,Jamaica,JAM,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+98114,49660,Melford Homela,M,22,167,55,Zimbabwe,ZIM,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+447,248,Rda Abdenouz,M,23,170,63,Algeria,ALG,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+266381,133266,Mohamed Ismail Youssef,M,24,175,75,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+988,555,Antnio da Cunha Meneses Martins Abrantes,M,24,176,68,Portugal,POR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+265201,132720,Terap Adoum Yaya,M,17,185,70,Chad,CHA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+2628,1474,Chrif Baba Aidara,M,24,177,70,Mauritania,MTN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+3191,1789,Abdullah Mohamed Amer Al-Anbari,M,22,170,60,Oman,OMA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+260975,130596,Frederick Lawrence Freddie' Williams',M,30,170,62,Canada,CAN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+249002,124656,Robin Arthur Anthony van Helden,M,27,180,73,Netherlands,NED,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+3800,2188,Mohamed Rached Salem Al-Tunaiji,M,22,170,70,United Arab Emirates,UAE,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+5859,3300,Prince Amara,M,19,180,70,Sierra Leone,SLE,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+238392,119540,Mbiganyi Thee,M,30,194,72,Botswana,BOT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+181864,91415,Jose Antonio Chion Tony' Parilla,M,20,172,65,United States,USA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+236374,118510,William Kiptarus Tanui,M,28,183,70,Kenya,KEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"Gold"
+235768,118212,Idrissou Souaibo Tamimou,M,NA,175,70,Benin,BEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+233649,117180,Mohamed Malal Sy Savan,M,23,172,54,Guinea,GUI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+8991,4943,Jos Arconada Ramos,M,28,192,76,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+10231,5592,Tommy Asinga,M,23,184,74,Suriname,SUR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+14430,7771,Jos Luz Zequinha Barbosa,M,31,184,68,Brazil,BRA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+19368,10260,Andrea Benvenuti,M,22,183,72,Italy,ITA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+209059,104957,Symphorien Brice Samba,M,18,NA,NA,Congo (Brazzaville),CGO,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+202273,101594,Vebjrn Rodal,M,19,188,78,Norway,NOR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+201740,101323,Stevon E. Roberts,M,21,178,70,Barbados,BAR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+201546,101235,Curtis Alexander Robb,M,20,188,75,Great Britain,GBR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+114899,58196,Bassam Kawas,M,23,165,52,Lebanon,LIB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+88336,44799,El-Mahjoub Hada,M,22,180,75,Morocco,MAR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+119726,60617,Nixon Kiprotich,M,29,185,68,Kenya,KEN,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"Silver"
+83673,42533,John Lee Johnny' Gray,M,32,191,75,United States,USA,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"Bronze"
+87733,44471,Jrg Haas,M,24,183,71,Germany,GER,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+116798,59106,Khambieng Khamiar,M,24,174,58,Laos,LAO,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+92721,46982,Steven Philip Steve' Heard',M,30,189,84,Great Britain,GBR,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+111852,56627,Ilunga Kafila,M,20,NA,NA,Congo (Kinshasa),COD,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+122463,61904,Marko Ewout Koers,M,19,193,80,Netherlands,NED,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,"NA"
+54338,27875,Jean-Marc Destine,M,23,184,73,Haiti,HAI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+164337,82497,Nico Motchebon,M,26,186,81,Germany,GER,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+57991,29675,Atle Thorold Lancelot Douglas,M,28,192,79,Norway,NOR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+55061,28221,Andrs Manuel Daz Daz,M,27,187,71,Spain,ESP,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+237472,119106,Norberto Tllez Santana,M,24,186,78,Cuba,CUB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+9291,5110,Fernando Arlete,M,27,174,63,Guinea Bissau,GBS,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+170492,85676,Savieri Ngidhi,M,28,175,64,Zimbabwe,ZIM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+230417,115650,David Maxwell Strang,M,27,181,68,Great Britain,GBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+163365,82009,Alex Morgan,M,23,183,66,Jamaica,JAM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+152784,76668,David Matthews,M,22,190,75,Ireland,IRL,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+161663,81159,Manlio Molinari,M,31,184,72,San Marino,SMR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+58964,30176,Giuseppe D'Urso,M,26,178,57,Italy,ITA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+107046,54106,Jimmy Jean-Joseph,M,23,181,64,France,FRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+237933,119306,Clive Terrelonge,M,27,189,72,Jamaica,JAM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+114788,58131,Boris Veniaminovich Kaveshnikov,M,21,182,68,Kyrgyzstan,KGZ,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+91960,46604,Arthmon Hatungimana,M,22,180,65,Burundi,BDI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+244968,122664,Einrs Tupurtis,M,22,178,62,Latvia,LAT,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+248977,124650,Mattheus Johannes Marius' van Heerden',M,21,178,69,South Africa,RSA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+83674,42533,John Lee Johnny' Gray,M,36,191,75,United States,USA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+52653,27037,Joachim Dehmel,M,27,190,72,Germany,GER,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+216570,108738,Hezekiel Sello Sepeng,M,22,176,63,South Africa,RSA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"Silver"
+117668,59546,Philip Kibitok,M,25,170,62,Kenya,KEN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+202243,101579,Brandon T. Rock,M,24,193,79,United States,USA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+202274,101594,Vebjrn Rodal,M,23,188,78,Norway,NOR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"Gold"
+201547,101235,Curtis Alexander Robb,M,24,188,75,Great Britain,GBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+19369,10260,Andrea Benvenuti,M,26,183,72,Italy,ITA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+199742,100325,Norbert Gregory Greg' Rhymer',M,24,180,66,British Virgin Islands,IVB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+18746,9935,Lahlou Ben Youns,M,31,180,75,Morocco,MAR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+26588,13833,Johannes Jacobus Johan' Botha',M,22,181,68,South Africa,RSA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+196232,98515,Joseph Rakotoarimanana,M,23,NA,NA,Madagascar,MAD,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+15807,8524,Saeed Basweidan,M,19,160,61,Yemen,YEM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+119747,60630,David Singeoi Kiptoo,M,31,175,68,Kenya,KEN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+103920,52589,Naseer Ismail,M,22,164,57,Maldives,MDV,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+31182,16033,Andr Bucher,M,19,186,78,Switzerland,SUI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+14431,7771,Jos Luz Zequinha Barbosa,M,35,184,68,Brazil,BRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+181865,91415,Jose Antonio Chion Tony' Parilla,M,24,172,65,United States,USA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+91076,46153,Cedric Harris,M,29,178,70,Dominica,DMA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+33181,17088,Paul Byrne,M,20,180,68,Australia,AUS,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+10232,5592,Tommy Asinga,M,27,184,74,Suriname,SUR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+225729,113422,Pavel Soukup,M,25,188,70,Czech Republic,CZE,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+177519,89221,Fredrick Momanyi Fred' Onyancha',M,27,170,64,Kenya,KEN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"Bronze"
+172436,86630,Charles Nkazamyampi,M,26,184,68,Burundi,BDI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+989,555,Antnio da Cunha Meneses Martins Abrantes,M,28,176,68,Portugal,POR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+79650,40459,Andrea Giocondi,M,27,180,70,Italy,ITA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+123438,62380,Bruno Konczylo,M,27,182,72,France,FRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+111962,56691,Tavakalo Kailes,M,23,165,54,Vanuatu,VAN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+80716,40977,Flvio de Oliveira Godoy,M,26,185,80,Brazil,BRA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+2629,1474,Chrif Baba Aidara,M,28,177,70,Mauritania,MTN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+92855,47043,Adem Hecini,M,20,175,66,Algeria,ALG,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+265202,132720,Terap Adoum Yaya,M,21,185,70,Chad,CHA,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+147142,73850,Themba Makhanya,M,25,NA,NA,Swaziland,SWZ,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+1655,920,Ibrahim Mohamed Aden Gedi,M,23,178,75,Somalia,SOM,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+264114,132164,Mohamed Babiker Yagoub Adam,M,18,181,62,Sudan,SUD,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+3153,1765,Abdul Rahman Hassan Al-Abdullah,M,18,178,65,Qatar,QAT,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+261888,131021,Craig Nicholas Winrow,M,24,179,71,Great Britain,GBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+124183,62729,Balzs Kornyi,M,22,175,75,Hungary,HUN,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,"NA"
+230857,115858,Panagiotis Stroubakos,M,28,187,72,Greece,GRE,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+167637,84221,Isireli Naikelekelevesi,M,23,178,65,Fiji,FIJ,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+119694,60594,Wilson Kosgei Kipketer,M,27,182,63,Denmark,DEN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"Silver"
+168991,84946,Jean-Patrick Nduwimana,M,22,180,65,Burundi,BDI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+262922,131561,Bryan Woodward,M,26,190,84,United States,USA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+189413,95130,Joo Manuel Pires,M,21,187,73,Portugal,POR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+216571,108738,Hezekiel Sello Sepeng,M,26,176,63,South Africa,RSA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+46024,23749,Grant Cremer,M,22,186,76,Australia,AUS,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+30240,15616,Milton O. Browne,M,24,170,60,Barbados,BAR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+265728,132959,William Oloonkishu Yiampoy,M,26,183,70,Kenya,KEN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+119360,60429,Japheth Kimutai Butia,M,21,173,55,Kenya,KEN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+166774,83773,Joseph Mwengi Mutua,M,21,170,58,Kenya,KEN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+194310,97549,Puntsag-Ochiryn Prevsren,M,25,180,73,Mongolia,MGL,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+166719,83745,Crispen Mutakanyi,M,30,175,64,Zimbabwe,ZIM,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+91234,46247,Andrew Andy' Hart',M,31,180,68,Great Britain,GBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+111889,56649,Nathan Kahan,M,29,187,68,Belgium,BEL,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+179580,90240,Paskar Owor,M,19,162,59,Uganda,UGA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+12481,6786,Faiq Barov,M,24,178,68,Azerbaijan,AZE,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+37697,19364,Vitalie Cerches,M,27,NA,NA,Moldova,MDA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+37710,19374,Jos Manuel Cerezo Moreno,M,27,185,69,Spain,ESP,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+141990,71230,Andrea Longo,M,25,191,83,Italy,ITA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+39127,20119,Mouhssin Al-Chehibi,M,22,176,73,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+224955,113015,Bram Som,M,20,179,69,Netherlands,NED,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+88337,44799,El-Mahjoub Hada,M,30,180,75,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+229820,115380,Vano Vane' Stojanov',M,22,181,75,Macedonia,MKD,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+182570,91764,Roberto Parra Mateo,M,24,186,68,Spain,ESP,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+177791,89350,Roman Oravec,M,22,188,75,Czech Republic,CZE,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+115827,58670,Richard M. Rich' Kenah',M,30,185,73,United States,USA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+184675,92821,Pavel Pelepyagin,M,22,184,72,Belarus,BLR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+103922,52589,Naseer Ismail,M,26,164,57,Maldives,MDV,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+152007,76289,Artyom Vasilyevich Mastrov,M,23,173,63,Russia,RUS,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+31183,16033,Andr Bucher,M,23,186,78,Switzerland,SUI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+65474,33510,David Mark Everett,M,32,183,70,United States,USA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+201678,101295,Ian Roberts,M,26,189,80,Guyana,GUY,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+26252,13687,Yury Mikhaylovich Borzakovsky,M,19,183,70,Russia,RUS,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+153985,77307,Kristopher James Kris' McCarthy',M,21,189,80,Australia,AUS,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+91961,46604,Arthmon Hatungimana,M,26,180,65,Burundi,BDI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+154602,77616,James Samuel McIlroy,M,23,180,70,Great Britain,GBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+257634,129021,Marvin Watts,M,25,184,68,Jamaica,JAM,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+88340,44801,Mohamed Saleh Hadj Haidara,M,25,NA,65,Bahrain,BRN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+240028,120286,Khalid Tighazouine,M,23,175,68,Morocco,MAR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+26595,13839,Werner Botha,M,22,186,73,South Africa,RSA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+59084,30250,Glody Dube,M,22,175,62,Botswana,BOT,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+243808,122103,Robert Bobby' True',M,22,183,70,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+207880,104345,Assa Djabir Sad-Guerni,M,23,187,70,Algeria,ALG,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"Bronze"
+24275,12726,Dmitry Anatolyevich Bogdanov,M,21,184,72,Russia,RUS,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+119099,60277,Kim Sun-Hyeong,M,27,184,71,South Korea,KOR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+60408,30935,Jorge Duvane,M,18,162,65,Mozambique,MOZ,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+107349,54244,Hossein Mehdi Jelodarzadeh Sedei,M,23,178,65,Iran,IRI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+124184,62729,Balzs Kornyi,M,26,175,75,Hungary,HUN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+202275,101594,Vebjrn Rodal,M,27,188,78,Norway,NOR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+17932,9525,Mohamed Habib Bel Hadj,M,27,180,67,Tunisia,TUN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+259840,130074,Zachary G. Zach' Whitmarsh',M,23,185,74,Canada,CAN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+92856,47043,Adem Hecini,M,24,175,66,Algeria,ALG,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+26589,13833,Johannes Jacobus Johan' Botha',M,26,181,68,South Africa,RSA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+152785,76668,David Matthews,M,26,190,75,Ireland,IRL,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+3481,1983,Mohamed Ayed Al-Kafraini,M,25,173,65,Jordan,JOR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+214587,107733,Nils Schumann,M,22,192,80,Germany,GER,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"Gold"
+266358,133255,Abdou Ibrahim Youssef,M,18,178,60,Qatar,QAT,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+130571,65739,Viktors Lcis,M,22,191,79,Latvia,LAT,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+57805,29594,Osmiro Osmar' Barbosa dos Santos',M,31,175,65,Brazil,BRA,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,"NA"
+103599,52417,Erkinzhon Tulkunovich Isakov,M,29,181,72,Uzbekistan,UZB,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+119695,60594,Wilson Kosgei Kipketer,M,31,182,63,Denmark,DEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"Bronze"
+130499,65701,Florent Lacasse,M,23,185,65,France,FRA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+204922,102891,Michael Kosgei Rotich,M,26,173,58,Kenya,KEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+91962,46604,Arthmon Hatungimana,M,30,180,65,Burundi,BDI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+26253,13687,Yury Mikhaylovich Borzakovsky,M,23,183,70,Russia,RUS,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"Gold"
+31978,16430,Wilfred Kipkemboi Bungei,M,24,172,60,Kenya,KEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+202000,101455,Khadevis Kekoai Tobi Robinson,M,28,185,72,United States,USA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+130359,65617,Amine Lalou,M,22,178,57,Morocco,MAR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+134021,67481,L Vn Dng L,M,18,170,58,Vietnam,VIE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+135097,67977,Lee Jae-Hun,M,27,185,68,South Korea,KOR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+195030,97877,Miguel Quesada Velasco,M,24,176,60,Spain,ESP,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+198197,99513,Gary Thomas Reed,M,22,175,66,Canada,CAN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+215963,108408,Jan Sekpona,M,17,170,61,Togo,TOG,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+17603,9384,Nazar Begliyev,M,24,185,75,Turkmenistan,TKM,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+198667,99766,Antonio Manuel Reina Ballesteros,M,23,186,71,Spain,ESP,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+216573,108738,Hezekiel Sello Sepeng,M,30,176,63,South Africa,RSA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+189414,95130,Joo Manuel Pires,M,25,187,73,Portugal,POR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+103914,52585,Ismail Ahmed Ismail,M,19,193,72,Sudan,SUD,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+219250,110142,Cornelis Sibe,M,21,165,55,Suriname,SUR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+208609,104732,Jasmin Salihovi,M,24,190,74,Bosnia and Herzegovina,BIH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+83484,42416,Andy Grant,M,20,170,57,Saint Vincent and the Grenadines,VIN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+207881,104345,Assa Djabir Sad-Guerni,M,27,187,70,Algeria,ALG,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+188456,94664,Byron Efrn Piedra Avils,M,21,176,62,Ecuador,ECU,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+186828,93916,Derrick L. Peterson,M,26,180,72,United States,USA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+31185,16033,Andr Bucher,M,27,186,78,Switzerland,SUI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+24277,12726,Dmitry Anatolyevich Bogdanov,M,25,184,72,Russia,RUS,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+57806,29594,Osmiro Osmar' Barbosa dos Santos',M,35,175,65,Brazil,BRA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+3715,2132,Mohamed Abdullah Obaid Al-Salhi (Kosgei-),M,18,182,55,Saudi Arabia,KSA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+166862,83839,Samwel Mwera Chegere,M,25,178,65,Tanzania,TAN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+166776,83773,Joseph Mwengi Mutua,M,25,170,58,Kenya,KEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+9250,5085,Ramil Kamilyevich Aritkulov,M,26,178,67,Russia,RUS,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+3241,1817,Mohamed Mutlaq Khalaf Al-Azemi,M,22,178,64,Kuwait,KUW,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+102158,51679,Fadrique Ignacio Iglesias Mendizbal,M,23,172,62,Bolivia,BOL,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+110657,55963,Moise Joseph,M,22,179,75,Haiti,HAI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+179581,90240,Paskar Owor,M,23,162,59,Uganda,UGA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+165675,83211,Prince Moses Mumba,M,19,180,70,Zambia,ZAM,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+234810,117751,Achraf Tadili,M,24,183,68,Canada,CAN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+165243,82984,Mbulaeni Tongai Mulaudzi,M,23,171,62,South Africa,RSA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"Silver"
+231998,116391,Majed Saeed Sultan,M,16,190,62,Qatar,QAT,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+112623,57049,Youssef Saad Kamel,M,21,184,70,Bahrain,BRN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+123087,62205,Mikhail Aleksandrovich Kolganov,M,24,179,63,Kazakhstan,KAZ,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+162764,81738,Sajjad Moradi,M,21,183,68,Iran,IRI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+106287,53770,Joeri Jansen,M,25,180,65,Belgium,BEL,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+69000,35182,David Fiegen,M,19,188,70,Luxembourg,LUX,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+4442,2534,Berhanu Alemu,M,22,179,63,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+3252,1825,Ali Mohamed Al-Balooshi,M,17,180,60,United Arab Emirates,UAE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+3292,1853,Abdal Salam Al-Dabaji,M,25,176,64,Palestine,PLE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+159062,79843,Dmitrijs Mikvis,M,22,182,72,Latvia,LAT,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+59086,30250,Glody Dube,M,26,175,62,Botswana,BOT,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+109567,55400,Jonathan Johnson,M,22,175,70,United States,USA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+95264,48246,Ivan Tarasovych Heshko,M,24,181,70,Ukraine,UKR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+224046,112536,Michal neberger,M,26,186,73,Czech Republic,CZE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+39128,20119,Mouhssin Al-Chehibi,M,26,176,73,Morocco,MAR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+224956,113015,Bram Som,M,24,179,69,Netherlands,NED,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+225312,113205,Richard Istvan Ricky' Soos',M,21,186,71,Great Britain,GBR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+255396,127868,Abdoulaye Wagne,M,23,186,77,Senegal,SEN,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+141991,71230,Andrea Longo,M,29,191,83,Italy,ITA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+40550,20887,Kondwani Chiwina,M,24,180,70,Malawi,MAW,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+176649,88825,Manuel Olmedo Villar,M,21,184,68,Spain,ESP,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+167638,84221,Isireli Naikelekelevesi,M,27,178,65,Fiji,FIJ,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+42910,22129,Selahattin obanolu,M,18,174,58,Turkey,TUR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+172841,86853,Mindaugas Norbutas,M,27,183,69,Lithuania,LTU,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+94798,47970,Ren Herms,M,22,195,80,Germany,GER,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+231867,116318,liby krov,M,27,182,73,Azerbaijan,AZE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+145888,73211,Nabil Madi,M,23,175,68,Algeria,ALG,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+230858,115858,Panagiotis Stroubakos,M,31,187,72,Greece,GRE,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+168992,84946,Jean-Patrick Nduwimana,M,26,180,65,Burundi,BDI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+229821,115380,Vano Vane' Stojanov',M,26,181,75,Macedonia,MKD,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+119930,60714,Sherridan Kirk,M,23,178,73,Trinidad and Tobago,TTO,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+2717,1513,Nicolas Assat,M,24,175,61,France,FRA,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+229339,115151,Jason Ron Stewart,M,22,187,70,New Zealand,NZL,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,"NA"
+112624,57049,Youssef Saad Kamel,M,25,184,70,Bahrain,BRN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+255397,127868,Abdoulaye Wagne,M,27,186,77,Senegal,SEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+3804,2192,Mohammed Ahmed Al-Yafaee,M,23,185,65,Yemen,YEM,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+3716,2132,Mohamed Abdullah Obaid Al-Salhi (Kosgei-),M,22,182,55,Saudi Arabia,KSA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+233777,117246,Nicholas Nick' Symmonds',M,24,178,75,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+252876,126616,Eduard Antonio Villanueva,M,23,172,65,Venezuela,VEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+24278,12726,Dmitry Anatolyevich Bogdanov,M,29,184,72,Russia,RUS,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+4692,2670,Belal Mansoor Ali,M,19,170,61,Bahrain,BRN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+98038,49616,Jakub Holua,M,20,183,72,Czech Republic,CZE,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+19281,10211,Yassine Bensghir,M,25,179,68,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+210516,105702,Aldwyn Sappleton,M,26,189,74,Jamaica,JAM,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+103915,52585,Ismail Ahmed Ismail,M,23,193,72,Sudan,SUD,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"Silver"
+3242,1817,Mohamed Mutlaq Khalaf Al-Azemi,M,26,178,64,Kuwait,KUW,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+259514,129924,Andrew Wheating,M,20,196,82,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+234811,117751,Achraf Tadili,M,28,183,68,Canada,CAN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+195031,97877,Miguel Quesada Velasco,M,28,176,60,Spain,ESP,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+112081,56761,Abubaker Kaki Khamis,M,19,176,60,Sudan,SUD,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+102159,51679,Fadrique Ignacio Iglesias Mendizbal,M,27,172,62,Bolivia,BOL,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+265309,132774,Alfred Kirwa Yego,M,21,175,56,Kenya,KEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"Bronze"
+13640,7380,Onalenna Oabona Baloyi,M,26,180,62,Botswana,BOT,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+223440,112215,Christian Smith,M,24,188,75,United States,USA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+166863,83839,Samwel Mwera Chegere,M,29,178,65,Tanzania,TAN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+199144,100016,Lachlan Lach' Renshaw',M,21,180,70,Australia,AUS,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+148137,74329,Derek Mandell,M,21,173,63,Guam,GUM,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+165244,82984,Mbulaeni Tongai Mulaudzi,M,27,171,62,South Africa,RSA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+198669,99766,Antonio Manuel Reina Ballesteros,M,27,186,71,Spain,ESP,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+142452,71472,Yeimer Lpez Garca,M,25,185,78,Cuba,CUB,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+130360,65617,Amine Lalou,M,26,178,57,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+193085,96944,Leonardo Nelson Price,M,29,175,60,Argentina,ARG,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+184122,92534,Fabiano Peanha,M,26,186,74,Brazil,BRA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+31979,16430,Wilfred Kipkemboi Bungei,M,28,172,60,Kenya,KEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"Gold"
+145889,73211,Nabil Madi,M,27,175,68,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+180437,90685,Sergey Pakura,M,25,186,70,Kyrgyzstan,KGZ,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+198198,99513,Gary Thomas Reed,M,26,175,66,Canada,CAN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+49643,25575,Klberson Davide,M,23,175,69,Brazil,BRA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+126108,63592,Vitalij Kozlov,M,21,180,72,Lithuania,LTU,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+47564,24525,Pawe Czapiewski,M,30,178,57,Poland,POL,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+179318,90108,Souleymane Ould Chebal Moctar,M,21,172,65,Mauritania,MTN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+38238,19650,Thomas Chamney,M,24,189,78,Ireland,IRL,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+170504,85685,Mabu Joseph Samson Ngoepe,M,23,180,60,South Africa,RSA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+39129,20119,Mouhssin Al-Chehibi,M,30,176,73,Morocco,MAR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+170631,85756,Nguyn nh Cng,M,26,169,62,Vietnam,VIE,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+47313,24390,Aunese Curreen,M,26,173,65,Samoa,SAM,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+39717,20412,Abraham Chepkirwok,M,19,176,62,Uganda,UGA,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+176650,88825,Manuel Olmedo Villar,M,25,184,68,Spain,ESP,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+199199,100045,Jozef Repk,M,22,190,72,Slovakia,SVK,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+159063,79843,Dmitrijs Mikvis,M,26,182,72,Latvia,LAT,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+161201,80873,Ehsan Mohajer Shojaei,M,25,175,62,Iran,IRI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+131039,65960,Mikko Antti Juhani Lahtio,M,23,193,72,Finland,FIN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+131270,66068,Boaz Kiplagat Lalang,M,19,NA,NA,Kenya,KEN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+26254,13687,Yury Mikhaylovich Borzakovsky,M,27,183,70,Russia,RUS,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+133123,67006,Robert Lathouwers,M,25,190,77,Netherlands,NED,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+148675,74570,Nadjim Manseur,M,20,180,73,Algeria,ALG,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+137640,69183,Marcin Lewandowski,M,21,179,64,Poland,POL,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+162765,81738,Sajjad Moradi,M,25,183,68,Iran,IRI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+81696,41476,Andy Gonzlez Nez,M,20,182,70,Cuba,CUB,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+138377,69519,Li Xiangyu,M,22,178,65,China,CHN,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+200855,100883,Michael John Rimmer,M,22,182,66,Great Britain,GBR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 800 metres,"NA"
+257025,128701,Gareth Robert Warburton,M,29,186,72,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+45025,23217,Edgar Alejandro Cortez Espinoza,M,22,170,55,Nicaragua,NCA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+244788,122557,Ivan Yuryevich Tukhtachov,M,23,174,60,Russia,RUS,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+147152,73857,Taoufik Makhloufi,M,24,170,67,Algeria,ALG,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+149224,74851,Luis Alberto Marco Contreras,M,25,184,70,Spain,ESP,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+234822,117758,Adnan Taess Akkar Al-Mntfage,M,32,165,78,Iraq,IRQ,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+6261,3512,Nijel Carlos Amilfitano Amos,M,18,179,60,Botswana,BOT,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"Silver"
+115076,58291,Tams Kazi,M,27,180,68,Hungary,HUN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+162766,81738,Sajjad Moradi,M,29,183,68,Iran,IRI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+3243,1817,Mohamed Mutlaq Khalaf Al-Azemi,M,30,178,64,Kuwait,KUW,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+5822,3280,Mohammed Aman Geleto,M,18,165,58,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+8287,4565,Manuel Andr Antonio,M,23,177,69,Angola,ANG,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+6474,3631,Anis Viktorovich Ananenko,M,26,176,65,Belarus,BLR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+65172,33359,Brice Pascal Guy Ets,M,28,185,73,Monaco,MON,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+161244,80906,Hamada Mohamed Mohamed Ahmad,M,19,175,65,Egypt,EGY,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+62307,31899,Amine El Manaoui,M,20,186,66,Morocco,MAR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+166731,83754,Julius Mutekanga,M,24,176,76,Uganda,UGA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+148138,74329,Derek Mandell,M,25,173,63,Guam,GUM,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+91094,46166,Geoffrey Geoff' Harris',M,25,170,64,Canada,CAN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+120403,60939,Timothy Kitum,M,17,172,60,Kenya,KEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"Bronze"
+202001,101455,Khadevis Kekoai Tobi Robinson,M,36,185,72,United States,USA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+165676,83211,Prince Moses Mumba,M,27,180,70,Zambia,ZAM,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+233778,117246,Nicholas Nick' Symmonds',M,28,178,75,United States,USA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+201062,101004,Jeffrey Jeff' Riseley',M,25,192,74,Australia,AUS,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+26458,13770,Pierre-Ambroise Bosse,M,20,185,68,France,FRA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+142326,71405,Kevin Lpez Yerga,M,22,171,56,Spain,ESP,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+198670,99766,Antonio Manuel Reina Ballesteros,M,31,186,71,Spain,ESP,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+81697,41476,Andy Gonzlez Nez,M,24,182,70,Cuba,CUB,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+26255,13687,Yury Mikhaylovich Borzakovsky,M,31,183,70,Russia,RUS,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+200856,100883,Michael John Rimmer,M,26,182,66,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+250757,125590,Wesley Joel Vzquez Vzquez,M,18,192,77,Puerto Rico,PUR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+137641,69183,Marcin Lewandowski,M,25,179,64,Poland,POL,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+112082,56761,Abubaker Kaki Khamis,M,23,176,60,Sudan,SUD,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+265891,133037,Masato Yokota,M,24,177,63,Japan,JPN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+205740,103274,David Lekuta Rudisha,M,23,190,76,Kenya,KEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"Gold"
+133124,67006,Robert Lathouwers,M,29,190,77,Netherlands,NED,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+117822,59623,Kieng Samorn,M,29,170,60,Cambodia,CAM,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+98039,49616,Jakub Holua,M,24,183,72,Czech Republic,CZE,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+130658,65779,Abdulaziz Ladan Mohammed,M,21,180,61,Saudi Arabia,KSA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+202754,101841,Rafith Rodrguez Lleneres,M,23,190,75,Colombia,COL,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+13434,7294,Musaeb Abdulrahman Balla,M,23,176,60,Qatar,QAT,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+225409,113256,Arnold Sorina,M,24,175,60,Vanuatu,VAN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+39191,20148,Antony Chemut,M,19,161,68,Kenya,KEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+178390,89677,Andrew Ifeanyichukwu Osagie,M,24,189,72,Great Britain,GBR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+224878,112965,Duane Renard Solomon,M,27,191,77,United States,USA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+34119,17573,Moussa Camara,M,24,NA,NA,Mali,MLI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+10245,5600,Yerzhan Askarov,M,26,172,70,Kyrgyzstan,KGZ,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+176574,88783,Andr Olivier,M,22,192,76,South Africa,RSA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+127969,64482,Adam Kszczot,M,22,178,68,Poland,POL,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+110658,55963,Moise Joseph,M,30,179,75,Haiti,HAI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+184123,92534,Fabiano Peanha,M,30,186,74,Brazil,BRA,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+63904,32747,Manuel Benjamn Enzema Owo,M,23,170,63,Equatorial Guinea,GEQ,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+31015,15971,Andreas Hjartbro Bube,M,25,178,65,Denmark,DEN,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+143622,72091,Sren Ludolph,M,24,182,68,Germany,GER,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+103916,52585,Ismail Ahmed Ismail,M,27,193,72,Sudan,SUD,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,"NA"
+249355,124856,Reinhardt van Rensburg,M,24,185,73,South Africa,RSA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+166296,83514,Clayton Murphy,M,21,180,68,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"Bronze"
+152210,76405,Luke Mathews,M,21,183,70,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+109566,55399,Jinson Johnson,M,25,NA,NA,India,IND,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+250758,125590,Wesley Joel Vzquez Vzquez,M,22,192,77,Puerto Rico,PUR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+65173,33359,Brice Pascal Guy Ets,M,32,185,73,Monaco,MON,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+151649,76107,Boitumelo Masilo,M,20,NA,NA,Botswana,BOT,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+95369,48291,Yassine Hethat,M,24,175,65,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+74803,37966,Antoine Gakeme,M,24,169,60,Burundi,BDI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+147154,73857,Taoufik Makhloufi,M,28,170,67,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"Silver"
+79339,40290,Elliot Levi Giles,M,22,183,77,Great Britain,GBR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+142327,71405,Kevin Lpez Yerga,M,26,171,56,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+127970,64482,Adam Kszczot,M,26,178,68,Poland,POL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+137642,69183,Marcin Lewandowski,M,29,179,64,Poland,POL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+92450,46823,Abubaker Haydar Abdalla,M,19,180,60,Qatar,QAT,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+21530,11364,Yiech Pur Biel,M,21,178,62,Refugee Olympic Athletes,ROT,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+31016,15971,Andreas Hjartbro Bube,M,29,178,65,Denmark,DEN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+119693,60593,Alfred Kipketer,M,19,167,60,Kenya,KEN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+26459,13770,Pierre-Ambroise Bosse,M,24,185,68,France,FRA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+17437,9285,Alex Beddoes,M,21,181,74,Cook Islands,COK,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+18073,9589,Mohammed El-Amine Belferar,M,25,175,65,Algeria,ALG,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+18901,10017,Giordano Benedetti,M,27,189,67,Italy,ITA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+88419,44851,Musa Hajdari,M,28,187,74,Kosovo,KOS,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+199200,100045,Jozef Repk,M,30,190,72,Slovakia,SVK,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+20090,10585,Boris Berian,M,23,183,70,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+200857,100883,Michael John Rimmer,M,30,182,66,Great Britain,GBR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+102601,51905,Joshua Josh' Ilustre',M,22,178,70,Guam,GUM,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+205785,103288,an Rudolf,M,23,184,64,Slovenia,SLO,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+205741,103274,David Lekuta Rudisha,M,27,190,76,Kenya,KEN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"Gold"
+201063,101004,Jeffrey Jeff' Riseley',M,29,192,74,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+205307,103085,Thamsanqa Jacob Rozani,M,28,NA,NA,South Africa,RSA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+204918,102888,Ferguson Cheruiyot Rotich,M,26,185,74,Kenya,KEN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+204913,102886,Abraham Kipchirchir Rotich,M,22,183,65,Bahrain,BRN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+203639,102237,Anthony Michael Romaniw,M,24,180,74,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+202755,101841,Rafith Rodrguez Lleneres,M,27,190,75,Colombia,COL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+24679,12925,Peter Bol,M,22,177,63,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+161245,80906,Hamada Mohamed Mohamed Ahmad,M,23,175,65,Egypt,EGY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+153874,77245,Brandon McBride,M,22,193,74,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+63905,32747,Manuel Benjamn Enzema Owo,M,27,170,63,Equatorial Guinea,GEQ,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+63784,32679,Mark English,M,23,187,76,Ireland,IRL,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+108876,55052,Charles Jock,M,26,191,75,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+62496,32000,Abdelati El-Guesse,M,23,187,64,Morocco,MAR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+244783,122554,Amel Tuka,M,25,187,77,Bosnia and Herzegovina,BIH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+5823,3280,Mohammed Aman Geleto,M,22,165,58,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+5838,3284,Alex Amankwah,M,24,NA,NA,Ghana,GHA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+84216,42790,Charel Grethen,M,24,180,65,Luxembourg,LUX,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+6262,3512,Nijel Carlos Amilfitano Amos,M,22,179,60,Botswana,BOT,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+153821,77207,Francky-Edgard Mbotto,M,18,181,68,Central African Republic,CAF,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+114861,58177,Sho Kawamoto,M,23,175,68,Japan,JPN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+164706,82708,Pol Moya Betriu,M,19,178,62,Andorra,AND,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+7619,4247,Daniel Andjar Ponce,M,22,182,78,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+50320,25891,lvaro de Arriba Lpez,M,22,177,69,Spain,ESP,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+49644,25575,Klberson Davide,M,31,175,69,Brazil,BRA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+9688,5309,Andrs Arroyo,M,21,177,64,Puerto Rico,PUR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+225739,113429,Hassan Ayanleh Souleiman,M,23,190,55,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+223079,112038,Mostafa Al-Ismaili Smaili,M,19,174,63,Morocco,MAR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"
+180128,90519,Lutimar Abreu Paes,M,27,184,77,Brazil,BRA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,"NA"

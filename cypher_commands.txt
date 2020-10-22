@@ -1,0 +1,44 @@
+# Step 1. Load from CSV file into neo4j. The csv file must be placed in the import directory
+LOAD CSV WITH HEADERS FROM 'fileName.csv' CREATE (:Athlete ​​)
+
+# Step 2. For number or date types,Convert the data type of an attribute:
+match (n:Athlete)
+SET n.Height = toInteger(n.Height)
+
+match (n:Athlete)
+SET n.Year = toInteger(n.Year)
+
+match (n:Athlete)
+SET n.Weight = toInteger(n.Weight)
+
+match (n:Athlete)
+SET n.Age = toInteger(n.Age)
+
+
+#step 3 (optional) filter data
+#create a project in neo4j. A project can hold multiple databases.
+#Clone the first database to a new database and filter down the result based on an attribute
+
+match (n:Athlete)
+where n.Medal CONTAINS 'NA'
+return n;
+
+#Verifty this returns all the nodes where there was no medal.
+# Can delete these nodes from the cloned database. Leaves a database with just the medalists
+
+match (n:Athlete)
+where n.Medal CONTAINS 'NA'
+delete n;
+
+# this will leave 39 nodes - all the medalists for 52 years of one event.
+
+
+#step 4 - create relationships for data
+# dont do this exactly.. we need to think of how to build the relationships
+MATCH (a:Athlete),(b:Athlete)
+WHERE a.NOC = 'USA' AND b.NOC = 'USA'
+CREATE (a)-[r:RelationName]->(b)
+RETURN type(r), r.name
+
+
+
